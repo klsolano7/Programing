@@ -25,3 +25,7 @@ console.log(21+3.5);
 console.log(2018-1969);
 console.log(65/240);
 console.log(100*0.2708);
+
+// 08212018
+
+console.log('Codecademy'.toUpperCase());
