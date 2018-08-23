@@ -30,8 +30,14 @@ console.log(100*0.2708);
 
 console.log('Codecademy'.toUpperCase());
 
+
 // 08/22/2018
 
 console.log(Math.floor(Math.random() * 100))
 console.log(Math.ceil(43.8))
 console.log(Number.isInteger(2017))
+
+// // I learn today about JavaScript documentation, i save the link and will review more and become more familiar with it 08/23/2018
+
+// Use a string method to log the following statment without whitespace at the beginning and end of it.
+console.log('    Remove whitespace   '.trim()); 
