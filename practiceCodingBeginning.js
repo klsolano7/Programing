@@ -29,3 +29,9 @@ console.log(100*0.2708);
 // 08212018
 
 console.log('Codecademy'.toUpperCase());
+
+// 08/22/2018
+
+console.log(Math.floor(Math.random() * 100))
+console.log(Math.ceil(43.8))
+console.log(Number.isInteger(2017))
