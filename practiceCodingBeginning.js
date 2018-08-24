@@ -41,3 +41,12 @@ console.log(Number.isInteger(2017))
 
 // Use a string method to log the following statment without whitespace at the beginning and end of it.
 console.log('    Remove whitespace   '.trim()); 
+
+// 08-24-2018
+
+
+
+<script>
+var name = "Kenneth";
+alert (name)=
+</script>
