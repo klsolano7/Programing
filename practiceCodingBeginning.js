@@ -46,7 +46,5 @@ console.log('    Remove whitespace   '.trim());
 
 
 
-<script>
-var name = "Kenneth";
-alert (name)=
-</script>
+// 08-25-2018
+/*Today I learned online about: Math floor, variables, const and let and put in alot of prcative time.*/
