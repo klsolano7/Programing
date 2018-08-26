@@ -48,3 +48,12 @@ console.log('    Remove whitespace   '.trim());
 
 // 08-25-2018
 /*Today I learned online about: Math floor, variables, const and let and put in alot of prcative time.*/
+
+// 08/26/2018 - I worked on IF/ELSE STATEMENT
+let isSoccerFan = true;
+if (isSoccerFan === true) {
+console.log('Goal!');
+} else {
+  console.log('No goal!')
+}
+
