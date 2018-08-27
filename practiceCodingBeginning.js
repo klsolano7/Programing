@@ -57,3 +57,4 @@ console.log('Goal!');
   console.log('No goal!')
 }
 
+// 08/27/2018 still wathcing videos
