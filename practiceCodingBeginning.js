@@ -58,3 +58,5 @@ console.log('Goal!');
 }
 
 // 08/27/2018 still wathcing videos
+
+// 08/28/2018 I am currently watching "Javescripts is easy"
