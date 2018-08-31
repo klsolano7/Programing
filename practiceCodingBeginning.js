@@ -62,3 +62,5 @@ console.log('Goal!');
 // 08/28/2018 I am currently watching "Javescripts is easy"
 
 //08/29/2018 continuing to watch video and practice on acedemy
+
+//08/30/2018 continuing to watch video and practice on acedemy
