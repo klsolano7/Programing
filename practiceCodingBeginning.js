@@ -65,10 +65,8 @@ console.log('Goal!');
 
 //08/30/2018 continuing to watch video and practice on acedemy
 
-let sale = true;
+Let sale = false
 
-sale = false;
-
-if (sale) {
-  console.log('Time to buy!');
+let (sale === false) {
+  console.log('Let go do some shopping!')
 }
