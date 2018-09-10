@@ -65,10 +65,7 @@ console.log('Goal!');
 
 //08/30/2018 continuing to watch video and practice on acedemy
 
-Let sale = false
 
-let (sale === false) {
-  console.log('Let go do some shopping!')
 }
 // reading ydkjs //
 
@@ -76,3 +73,9 @@ let (sale === false) {
 
 //lectures//
 //lectures//
+
+let animal = true
+
+if (animal) {
+  console.log('Lion')
+}
