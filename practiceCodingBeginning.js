@@ -74,8 +74,10 @@ console.log('Goal!');
 //lectures//
 //lectures//
 
-let animal = true
+let animal = true;
 
 if (animal) {
   console.log('Lion')
 }
+
+//lectures//
